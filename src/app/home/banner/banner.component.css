@@ -1,0 +1,87 @@
+
+/* Banner */
+.home-banner {
+	background: url("/assets/img/sepia.jpg") no-repeat;
+	background-size: cover;
+}
+
+.home-banner .setaprabaixo {
+	color: #ea9c16;
+	position: relative;
+	bottom: 0;
+	text-align: center;
+	padding-bottom: 40px;
+}
+
+.home-banner .pontos {
+	color: white;
+	position: absolute;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	align-items: center;
+	width: 60px;
+}
+
+.home-banner .pontos .ponto {
+	color: white;
+	font-size: 10px;
+	padding: 6px 20px;
+	opacity: 0.5;
+}
+
+.home-banner .pontos .ponto:hover, 
+.home-banner .pontos .ponto:active,
+.home-banner .pontos .ponto.active {
+	font-size: 12px;
+	padding: 5px 8px;
+	opacity: 0.9;
+}
+
+.pontos2 {
+	display: inline-block;
+    margin: auto 1.2em auto -60px;
+    padding: 0px 20px 2px 2px;;
+
+}
+
+#home-title {
+	padding: 290px 0 198px;
+}
+
+#home-title h1, #home-title h2{
+	color: #ea9c16;
+	margin: 0;
+}
+
+#home-title h1 {
+	font-weight: bold;
+	font-size: 54px;
+
+}
+
+#home-title h2 {
+	font-size: 22px;
+}
+
+
+.pontos a i {
+	font-size: 14px;
+	width: 30px;
+	opacity: 0.6;
+}
+
+
+.pontos a i:hover, 
+.pontos a i:active,
+.pontos a i .pontos2.active {
+	font-size: 16px;
+	padding: 2px 2px;
+	opacity: 0.9;
+}
+
+.conhecer {
+	align-items: flex-start;
+	display: inline-block;
+    margin-left: -1.7em;
+}

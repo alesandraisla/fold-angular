@@ -1,0 +1,16 @@
+
+header {
+	position: absolute;
+	width: 100%;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: #ffffff;
+	padding: 15px;
+	font-size: 18px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+	color: white;
+}
+

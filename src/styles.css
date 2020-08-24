@@ -1,1 +1,302 @@
 /* You can add global styles to this file, and also import other style files */
+
+@font-face {
+  font-family: metropolis;
+  src: url(assets/fonts/Metropolis-Bold.otf);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: metropolis;
+  src: url(assets/fonts/Metropolis-Regular.otf);
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: metropolis;
+  src: url(assets/fonts/Metropolis-Medium.otf);
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: metropolis;
+  src: url(assets/fonts/Metropolis-SemiBold.otf);
+  font-weight: 600;
+}
+
+body {
+	font-family: metropolis;
+}
+
+/* Home */
+
+
+/* /Banner */
+
+/* Sobre */
+
+.home-sobre {
+	background-color: #181818;
+	padding-top: 80px;
+	padding-bottom: 100px;
+}
+
+.contato {
+	background-color: #181818;
+}
+
+.contato h1 {
+	font-size: 36px;
+	color: #c8c8c8;
+	padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.contato a {
+	color: #ea9c16;
+	font-size: 27px;
+	padding-top: 2.5em;
+    padding-bottom: 2em;
+    display: inline-block;
+}
+
+.contato a:hover {
+	text-decoration: none;
+	opacity: 0.8;
+
+}
+
+
+
+.sobre-projeto a:hover {
+	text-decoration: none;
+	opacity: 0.8;
+
+}
+
+.sobre-card a:hover {
+	text-decoration: none;
+	opacity: 0.8;
+
+}
+
+.sobre-img{
+	width: 390px;
+	-webkit-box-shadow: 18px 20px 0px 2px rgba(32,32,32,1);
+	-moz-box-shadow: 18px 20px 0px 2px rgba(32,32,32,1);
+	box-shadow: 18px 20px 0px 2px rgba(32,32,32,1);
+}
+
+
+.projeto-imagem {
+
+} 
+
+.projeto-imagem img {
+	margin-top: 11em;
+	margin-left: 20px;
+}
+
+.sobre-projeto p {
+	font-size: 22px;
+}
+
+.sobre-card {
+	background-color: #202020; 
+	color: #c8c8c8;
+	padding: 50px;
+}
+
+.sobre-card a {
+	color: #ea9c16;
+	font-weight: 600;
+	font-size: 27px;
+	margin-top: 20px;
+	display: inline-block;
+}
+
+
+
+.sobre-card a i {
+	font-size: 20px;
+
+}
+
+.sobre-card h2 {
+	font-size:36px;
+	font-weight: bold;
+	margin-top: -1em; 
+}
+
+.sobre-card p {
+	margin-top: 15px;
+	font-size: 24px;
+}
+
+.sobre-row {
+	text-align: left;
+}
+
+.sobre-projeto a {
+
+	font-size: 27px;
+	color: #ea9c16;
+
+}
+
+.pontos.pontos2{
+	margin-left: 20em;
+
+}
+
+
+
+
+.listas-card {
+	color: #8c8c8c;
+	line-height: 44px;
+	font-size: 22px;
+	margin-left: -1em;
+	margin-top: 1.5em;
+}
+
+.listas-card ul {
+	list-style: none;
+	line-height: 120%;
+
+}
+
+.listas-card li {
+	margin-top: 2px;
+	margin-left: -0.9em;
+}
+
+.listas-card ul li:before {
+   content: "•";
+   font-size: 130%; 
+   padding-right: 5px;
+   display: inline-block;
+   padding-top: 15px;
+
+   
+}
+
+
+
+.sobre-projeto {
+	color: #c8c8c8;
+	font-size: 36px;
+
+}
+
+
+hr {
+	border-top: 5px solid #ea9c16;
+	width: 20%;
+	display: inline-block;
+
+}
+
+
+.sobre-projeto hr {
+	border-top: 5px solid #ea9c16;
+	width: 20%;
+	display: inline-block;
+}
+
+.sobre-row hr {
+	border-top: 5px solid #ea9c16;
+	width: 20%;
+	display: inline-block;
+}
+
+#borda {
+	border-bottom:  2px solid #ea9c16;
+	width: 25%;	
+}
+
+.sobre-servico h1 {
+	margin-top: 0.8em;
+    display: inline-block;
+    margin-bottom: 1em;
+
+}
+
+h4 {
+	font-size: 23px;
+	color: #8c8c8c;
+	margin-top: 20px;
+	margin-bottom: 8em;
+	display: inline-block;
+}
+
+h5 {
+	color: #8c8c8c;
+	background-color: #202020;
+	width: 130px;
+	height: 30px;
+	text-align: justify;
+
+
+}
+
+/* /Sobre */
+
+.sobre-projeto h1 {
+
+}
+
+.home-digital {
+	background-color: #202020;
+	
+
+}
+
+.sobre-projeto p {
+	display: block;
+}
+
+.home-projetos {
+	background-color: #181818;
+	padding-top: 80px;
+	padding-bottom: 100px;
+}
+
+
+/*Serviços */
+
+
+.home-servicos {
+	background-color: #202020;
+	padding-top: 60px;
+}
+
+.home-servicos h1 {
+	color: #c8c8c8;
+}
+
+.home-servicos p {
+	color: #8c8c8c;
+	padding-bottom: 4em;
+
+}
+
+.sobre-row h1 {
+	font-size: 43px;
+	color: #8c8c8c;
+}
+
+.sobre-row p {
+	font-size: 22px;
+	color: #8c8c8c;
+}
+
+.btn-secondary {
+    color: #8c8c8c;
+    background-color: #202020;
+    border-color: #202020;
+    font-size: 21px;
+}
+
+
+/* /Home */
