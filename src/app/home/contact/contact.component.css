@@ -1,0 +1,25 @@
+.contato  {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.contato h1 {
+	font-size: 36px;
+	color: #c8c8c8;
+}
+
+.contato a {
+	color: #ea9c16;
+	font-size: 27px;
+	
+    
+}
+
+.contato a:hover {
+	text-decoration: none;
+	opacity: 0.8;
+
+}
+
+.contato {
+	background-color: #181818;
+}

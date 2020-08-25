@@ -1,0 +1,25 @@
+.sobre-servico h1 {
+	margin-top: 0.8em;
+    display: inline-block;
+    margin-bottom: 1em;
+
+}
+
+
+.home-servicos {
+	background-color: #202020;
+	padding-top: 60px;
+}
+
+.home-servicos h1 {
+	color: #c8c8c8;
+}
+
+.home-servicos p {
+	color: #8c8c8c;
+	padding-bottom: 4em;
+}
+
+.home-servicos hr {
+	width: 8em;
+}

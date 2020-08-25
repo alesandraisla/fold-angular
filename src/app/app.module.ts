@@ -11,6 +11,11 @@ import { AboutDigitalComponent } from './home/about-digital/about-digital.compon
 import { ProjectsComponent } from './home/projects/projects.component';
 import { ServicesComponent } from './home/services/services.component';
 import { ContactComponent } from './home/contact/contact.component';
+import { SobreComponent } from './sobre/sobre.component';
+import { ObrasComponent } from './obras/obras.component';
+import { ObraInternaComponent } from './obra-interna/obra-interna.component';
+import { ServicosComponent } from './servicos/servicos.component';
+import { DepoimentoComponent } from './sobre/depoimento/depoimento.component';
 
 @NgModule({
   declarations: [
@@ -23,7 +28,12 @@ import { ContactComponent } from './home/contact/contact.component';
     AboutDigitalComponent,
     ProjectsComponent,
     ServicesComponent,
-    ContactComponent
+    ContactComponent,
+    SobreComponent,
+    ObrasComponent,
+    ObraInternaComponent,
+    ServicosComponent,
+    DepoimentoComponent
   ],
   imports: [
     BrowserModule

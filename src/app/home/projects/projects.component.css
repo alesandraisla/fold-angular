@@ -1,0 +1,43 @@
+
+
+.projeto-imagem img {
+	margin-top: 11em;
+	margin-left: 20px;
+}
+
+
+
+.sobre-projeto p {
+	font-size: 22px;
+}
+
+.badge-secondary{
+    color: #8c8c8c;
+    background-color: #202020;
+    margin-bottom: 20px;
+}
+
+.conhecer a {
+	color: #ea9c16;
+	font-size: 27px;
+	display: inline-block;
+	padding-bottom: 20px;
+
+}
+
+.sobre-projeto .pontos a {
+	font-size: 20px;
+	color:rgba(124, 124, 124, 0.57);
+}
+
+
+.sobre-projeto .pontos a:hover,
+.sobre-projeto .pontos a.pontos2.active {
+	text-decoration: none;
+	color: #ea9c16;
+}
+
+
+.sobre-projeto .pontos a + a {
+	padding-left: 20px;
+}

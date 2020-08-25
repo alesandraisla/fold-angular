@@ -1,0 +1,46 @@
+#rodape {
+	background-color: #202020;
+
+}
+
+#rodape img {
+	width: 40%;
+	padding-top: 8em;
+}
+
+#rodape ul li {
+	list-style-type: none;
+	margin-left: -2.5em;
+}
+
+#rodape ul li a {
+	color: #8c8c8c;
+}
+
+.col-social ul li:first-child a {
+	padding-left: 3px;
+	
+}
+
+#rodape h2 {
+	font-size: 25px;
+	color: #c8c8c8;
+}
+
+#rodape .col-3.text-light {
+	margin-top: 9.2em;
+
+}
+
+.social{
+	color: #8c8c8c;
+	margin-left: 0.5em;
+	font-family: "metropolis-regular";
+}
+
+.end h5{
+	width: 50em;
+	color: #8c8c8c;
+	margin-top: 2em;
+
+}

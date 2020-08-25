@@ -28,51 +28,12 @@ body {
 	font-family: metropolis;
 }
 
-/* Home */
+footer {
+	font-family: metropolis;
+}
 
-
-/* /Banner */
 
 /* Sobre */
-
-.home-sobre {
-	background-color: #181818;
-	padding-top: 80px;
-	padding-bottom: 100px;
-}
-
-.contato {
-	background-color: #181818;
-}
-
-.contato h1 {
-	font-size: 36px;
-	color: #c8c8c8;
-	padding-top: 2em;
-    padding-bottom: 2em;
-}
-
-.contato a {
-	color: #ea9c16;
-	font-size: 27px;
-	padding-top: 2.5em;
-    padding-bottom: 2em;
-    display: inline-block;
-}
-
-.contato a:hover {
-	text-decoration: none;
-	opacity: 0.8;
-
-}
-
-
-
-.sobre-projeto a:hover {
-	text-decoration: none;
-	opacity: 0.8;
-
-}
 
 .sobre-card a:hover {
 	text-decoration: none;
@@ -80,31 +41,13 @@ body {
 
 }
 
-.sobre-img{
-	width: 390px;
-	-webkit-box-shadow: 18px 20px 0px 2px rgba(32,32,32,1);
-	-moz-box-shadow: 18px 20px 0px 2px rgba(32,32,32,1);
-	box-shadow: 18px 20px 0px 2px rgba(32,32,32,1);
+.sobre-card a i {
+	font-size: 20px;
+
 }
 
-
-.projeto-imagem {
-
-} 
-
-.projeto-imagem img {
-	margin-top: 11em;
-	margin-left: 20px;
-}
-
-.sobre-projeto p {
-	font-size: 22px;
-}
-
-.sobre-card {
-	background-color: #202020; 
-	color: #c8c8c8;
-	padding: 50px;
+.sobre-row {
+	text-align: left;
 }
 
 .sobre-card a {
@@ -117,69 +60,11 @@ body {
 
 
 
-.sobre-card a i {
-	font-size: 20px;
-
-}
-
-.sobre-card h2 {
-	font-size:36px;
-	font-weight: bold;
-	margin-top: -1em; 
-}
-
-.sobre-card p {
-	margin-top: 15px;
-	font-size: 24px;
-}
-
-.sobre-row {
-	text-align: left;
-}
-
-.sobre-projeto a {
-
-	font-size: 27px;
-	color: #ea9c16;
-
-}
-
-.pontos.pontos2{
-	margin-left: 20em;
-
-}
 
 
 
 
-.listas-card {
-	color: #8c8c8c;
-	line-height: 44px;
-	font-size: 22px;
-	margin-left: -1em;
-	margin-top: 1.5em;
-}
 
-.listas-card ul {
-	list-style: none;
-	line-height: 120%;
-
-}
-
-.listas-card li {
-	margin-top: 2px;
-	margin-left: -0.9em;
-}
-
-.listas-card ul li:before {
-   content: "•";
-   font-size: 130%; 
-   padding-right: 5px;
-   display: inline-block;
-   padding-top: 15px;
-
-   
-}
 
 
 
@@ -215,12 +100,7 @@ hr {
 	width: 25%;	
 }
 
-.sobre-servico h1 {
-	margin-top: 0.8em;
-    display: inline-block;
-    margin-bottom: 1em;
 
-}
 
 h4 {
 	font-size: 23px;
@@ -240,7 +120,7 @@ h5 {
 
 }
 
-/* /Sobre */
+
 
 .sobre-projeto h1 {
 
@@ -263,23 +143,7 @@ h5 {
 }
 
 
-/*Serviços */
 
-
-.home-servicos {
-	background-color: #202020;
-	padding-top: 60px;
-}
-
-.home-servicos h1 {
-	color: #c8c8c8;
-}
-
-.home-servicos p {
-	color: #8c8c8c;
-	padding-bottom: 4em;
-
-}
 
 .sobre-row h1 {
 	font-size: 43px;
@@ -298,5 +162,3 @@ h5 {
     font-size: 21px;
 }
 
-
-/* /Home */
