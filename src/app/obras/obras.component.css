@@ -1,0 +1,30 @@
+#obras {
+	height: 400px;
+	background: url(/assets/img/services.png);
+}
+
+#obras-1{
+	background-color: #181818;
+	color: #c8c8c8;
+}
+
+#obras-1 h2 {
+	font-size: 36px;
+	padding-top: 2em;
+
+}
+
+#obras-1 hr {
+	width: 10%;
+	padding-bottom: 2em;
+}
+
+#obras-1 p {
+	padding-top: 1.5em;
+	font-size: 18px;
+}
+
+#obras img {
+	opacity: 0.2;
+}
+
