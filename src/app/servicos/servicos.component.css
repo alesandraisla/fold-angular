@@ -1,0 +1,85 @@
+#cabecalho-servicos {
+	min-height: 400px;
+	background: url(/assets/img/services.png) no-repeat;
+	}
+
+#area-dois {
+	margin-top: 3em;
+}
+
+#area-tres {
+	margin-top: 3em;
+}
+
+#video-area-tres {
+	padding-left: 4em;
+}
+
+#area-cinco {
+	height: 13em;
+}
+
+#area-cinco h2 {
+	padding-top: 1.5em;
+}
+
+#area-cinco a {
+	padding-top: 60px;
+	display: inline-block;
+	color: #ea9c16;
+	font-size: 27px;
+}
+
+
+
+
+.tela-escura {
+	background-color: black;
+	padding-bottom: 2em;
+	padding-top: 2em;
+	color: #c8c8c8;
+}
+
+.tela-escura h2 {
+	font-size: 36px;
+}
+
+.tela-escura p {
+	font-size: 16px;
+}
+
+/.tela-escura a {
+	color: yellow;
+	padding-bottom: 10em;
+	display: inline-block;
+}
+
+.tela-escura a:hover {
+	text-decoration: none;
+	opacity: 0.8;
+}
+
+
+.tela-escura hr,
+.tela-clara hr {
+	width: 6em;
+}
+
+
+.tela-clara {
+	background-color: #202020;
+	padding-bottom:2em;
+	padding-top: 2em;
+	color: black;
+}
+
+.tela-clara h2 {
+	font-size: 36px;
+	color: #c8c8c8;
+}
+
+.tela-clara p {
+	font-size: 16px;
+	color: #c8c8c8;
+}
+
