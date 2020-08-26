@@ -2,6 +2,7 @@
 header {
 	position: absolute;
 	width: 100%;
+	z-index: 1;
 }
 
 .navbar-light .navbar-nav .nav-link {
