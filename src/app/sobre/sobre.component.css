@@ -22,18 +22,29 @@ h2 {
 	font-size: 36px;
 }
 
+h3 {
+	color: #8c8c8c;
+	font-size: 36px;
+}
+
 p {
 	color: #c8c8c8;
-	font-size: 24px;	
+	font-size: 20px;	
 }
 
 hr {
 	width:7em;
+	padding-bottom: 2em;
 }
 
 .img-grid{
-	border-radius: 50%
+	border-radius: 50%;
+
 }
 
+
+.bloco-bottom {
+	padding-bottom: 6em;
+}
 
 
