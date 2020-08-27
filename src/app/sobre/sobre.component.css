@@ -1,0 +1,39 @@
+header {
+	background: url(/assets/img/sobre.png);
+	height: 400px;
+}
+
+#sobre {
+	background-color: #181818;	
+}
+
+.img-sobre {
+	position: relative;
+	margin-top: -6em;
+	margin-left: 5em;
+}
+
+.texto h2{
+	padding-top: 2em;
+}
+
+h2 {
+	color: #c8c8c8;
+	font-size: 36px;
+}
+
+p {
+	color: #c8c8c8;
+	font-size: 24px;	
+}
+
+hr {
+	width:7em;
+}
+
+.img-grid{
+	border-radius: 50%
+}
+
+
+
