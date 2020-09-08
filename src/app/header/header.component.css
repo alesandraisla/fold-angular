@@ -7,11 +7,15 @@ header {
 
 .navbar-light .navbar-nav .nav-link {
 	color: #ffffff;
-	padding: 15px;
+	padding: 25px;
 	font-size: 18px;
 }
 
 .navbar-light .navbar-nav .nav-link:hover {
 	color: white;
+	font-weight: bolder;
+	padding: 24px;
+	
+
 }
 
